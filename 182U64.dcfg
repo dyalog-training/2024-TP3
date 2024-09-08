@@ -1,0 +1,10 @@
+{
+  Settings: {                             
+      DYALOGSTARTUPSE: "C:/wherever/StartupSession",      
+      DYALOG_NETCORE: 1,       
+  },
+}
+
+
+
+

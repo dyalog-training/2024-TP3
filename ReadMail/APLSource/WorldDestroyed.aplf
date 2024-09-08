@@ -1,0 +1,6 @@
+ r←WorldDestroyed
+⍝ Determine whether it is worth reading e-mail
+
+ r←HttpCommand.Get'http://www.hasthelargehadroncolliderdestroyedtheworldyet.com/atom.xml'
+ r←⎕XML r.Data
+ r←'NOPE.'≢⊃r[r[;1 2]⍳2 'content';3]
