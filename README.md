@@ -18,7 +18,7 @@ More time will be available for experimentation and teaching during the workshop
 
 Required:
 
-- Dyalog v19.0 – Unicode/Classic, 32/64-bit, any supported operating system.
+- Dyalog v19.0 – Unicode/Classic, 32/64-bit, any supported operating system. Please make sure you are running a recent version if you want to follow the Cider and Tatin sections of the workshop.
   
 - Link v4.0.17 – included with Dyalog v19.0
 
