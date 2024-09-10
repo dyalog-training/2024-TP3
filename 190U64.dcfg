@@ -1,6 +1,6 @@
 {
   Settings: {  
-      DYALOGLINK: "C:/wherever/StartupSession", 
+      DYALOGLINK: "C:/wherever/Link", 
       DYALOG_NETCORE: 1,    
   }
 }
