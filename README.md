@@ -44,7 +44,7 @@ on configuring Dyalog APL to use it.
 
 2. Download [Link version 4.0.20](https://github.com/Dyalog/link/releases/latest) and follow the [installation instructions](https://dyalog.github.io/link/4.0/Usage/Installation/).
 
-3. Check your APL Configuration and verify that it is enabling both the corect .NET version and the downloaded version of Link.
+3. Check your APL Configuration and verify that it is enabling both the correct .NET version and the downloaded version of Link.
 
 If you need inspiration, inspect the relevant configuration file for your APL version, one of [182U64.dcfg](https://github.com/dyalog-training/2024-TP3/blob/main/182U64.dcfg) or [190U64.dcfg](https://github.com/dyalog-training/2024-TP3/blob/main/190U64.dcfg). These two files are also included in the download zip file.
 
